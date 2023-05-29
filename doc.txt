@@ -1,0 +1,9 @@
+cara nge run
+
+npm start
+nodemon npm start
+
+credit 
+Tutorial Node.js, Express dan MySQL
+https://santrikoding.com/tutorial-node-express-mysql-1
+
